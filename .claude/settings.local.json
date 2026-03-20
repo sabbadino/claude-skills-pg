@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)",
+      "Bash(mkdir -p D:/repos/github-sabbadino/claude-skills-pg/.claude/skills/technology-selection)",
+      "Bash(mv D:/repos/github-sabbadino/claude-skills-pg/.claude/commands/dotnet-ai/technology-selection.md D:/repos/github-sabbadino/claude-skills-pg/.claude/skills/technology-selection/SKILL.md)",
+      "Bash(rm -rf D:/repos/github-sabbadino/claude-skills-pg/.claude/commands)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
